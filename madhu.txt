@@ -5,3 +5,4 @@ git is light weight
 =======
 git is widely used tool
 >>>>>>> 52927f15e5a6b793c40719a0ff67b31df6104f3e
+git is nice tool
